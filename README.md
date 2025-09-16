@@ -1,4 +1,4 @@
-#RUNNING WORKFLOW
+#RUNNING TESTS
 
 # Descomplicando GitHub Actions
 
